@@ -409,18 +409,58 @@
 		"logo": "static/icons/pexels.com.ico"
 	}]
 }, {
-	"_id": "blog",
-	"classify": "优秀博客",
+		"_id": "lingganww",
+	"classify": "灵感`图素11",
 	"icon": "ti-hand-point-right",
 	"sites": [{
-		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
-		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+		"name": "Muzli",
+		"href": "http://muz.li/",
+		"desc": "设计灵感资源聚合",
+		"logo": "static/icons/muz.li.ico"
+	}, {
+		"name": "Pinterest",
+		"href": "https://www.pinterest.com/",
+		"desc": "全球美图收藏采集站",
+		"logo": "static/icons/pinterest.com.ico"
+	}, {
+		"name": "站酷",
+		"href": "https://www.zcool.com.cn/",
+		"desc": "国内设计交流互动平台",
+		"logo": "static/icons/zcool.cn.ico"
+	}, {
+		"name": "花瓣",
+		"href": "http://huaban.com/",
+		"desc": "中国美图收藏采集站",
+		"logo": "static/icons/huaban.com.ico"
+	}, {
+		"name": "堆糖",
+		"href": "https://www.duitang.com/",
+		"desc": "美图壁纸兴趣社区",
+		"logo": "static/icons/duitang.com.ico"
+	}, {
+		"name": "设计癖",
+		"href": "http://www.shejipi.com/",
+		"desc": "美图好物发现社区",
+		"logo": "static/icons/shejipi.com.ico"
+	}, {
+		"name": "pixabay",
+		"href": "https://pixabay.com/",
+		"desc": "高清图片站",
+		"logo": "static/icons/pixabay.com.png"
+	}, {
+		"name": "unsplash",
+		"href": "https://unsplash.con/",
+		"desc": "高清图片站",
+		"logo": "static/icons/unsplash.com.ico"
+	}, {
+		"name": "pexels",
+		"href": "https://www.pexels.com/zh-cn/",
+		"desc": "可商用图片站-支持中文",
+		"logo": "static/icons/pexels.com.ico"
 	}]
-}]
-        "_id": "blogod",
-	"classify": "优秀博客1",
+}, {
+	"_id": "blog",
+	"classify": "优秀博客",
 	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "Rat's Blog ",
