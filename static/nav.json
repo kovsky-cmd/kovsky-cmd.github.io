@@ -419,8 +419,8 @@
 		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
 	}]
 }]
-"_id": "blog",
-	"classify": "优秀博客",
+        "_id": "blogod",
+	"classify": "优秀博客1",
 	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "Rat's Blog ",
