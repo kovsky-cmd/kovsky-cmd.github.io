@@ -1,9 +1,10 @@
 [{
-	"_id": "ruanjian",  //免费色情网站
+	"_id": "ruanjian",  
 	"classify": "Free porn video sites",
 	"icon": "ti-hand-point-right",
 	"sites": [{
-		"name": "PornHub",  //排名一
+		//1
+		"name": "PornHub",  
 		"href": "https://pornhub.com/",
 		"desc": "PornHub.comIt's the world's largest free porn sharing site with over 11 million videos that will leave you wanting more. Watch the world's hottest porn stars.",
 		"logo": "static/icons/pornhub.ico"
