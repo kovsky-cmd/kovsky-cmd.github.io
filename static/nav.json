@@ -76,7 +76,7 @@
 }, {
 	"_id": "yunpan",
 	"classify": "Best Paid Porn Sites",
-	"icon": "ti-cloud",
+	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "文叔叔",
 		"href": "https://www.wenshushu.cn/",
@@ -141,7 +141,7 @@
 },  { 
 	"_id": "daohang",
 	"classify": "分类导航",
-	"icon": "ti-bookmark-alt",
+	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "今日热榜",
 		"href": "https://tophub.today/",
@@ -191,7 +191,7 @@
 }, {
 	"_id": "wangpan",
 	"classify": "资源搜索",
-	"icon": "ti-search",
+	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "LOOKAO",
 		"href": "https://lookao.com/",
@@ -221,7 +221,7 @@
 }, {
 	"_id": "quwei",
 	"classify": "趣味网站",
-	"icon": "ti-package",
+	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "能不能好好说话",
 		"href": "https://lab.magiconch.com/nbnhhsh/",
@@ -256,7 +256,7 @@
 },{
 	"_id": "wangluo",
 	"classify": "网络工具",
-	"icon": "ti-rocket",
+	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "wxpusher",
 		"href": "http://wxpusher.zjiecode.com",
@@ -361,7 +361,7 @@
 }, {
 	"_id": "linggan",
 	"classify": "灵感`图素",
-	"icon": "ti-light-bulb",
+	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "Muzli",
 		"href": "http://muz.li/",
@@ -411,7 +411,17 @@
 }, {
 	"_id": "blog",
 	"classify": "优秀博客",
-	"icon": "ti-medall-alt",
+	"icon": "ti-hand-point-right",
+	"sites": [{
+		"name": "Rat's Blog ",
+		"href": "https://www.moerats.com/",
+		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
+		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+	}]
+}]
+"_id": "blog",
+	"classify": "优秀博客",
+	"icon": "ti-hand-point-right",
 	"sites": [{
 		"name": "Rat's Blog ",
 		"href": "https://www.moerats.com/",
